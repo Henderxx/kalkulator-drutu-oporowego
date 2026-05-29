@@ -1,4 +1,4 @@
-# Kalkulator Przecinarki Styropianu
+# Kalkulator Parametrów Zasilania i Pracy Drutu Oporowego
 
 🔧 **Kalkulator doboru zasilacza i przewodów do przecinarki do styropianu z drutem oporowym**
 
